@@ -7,6 +7,14 @@ int(num_a)
 res = (num_a*2)/1.5
 print(num_a,type(num_a))
 
+a = 2
+a = a * 2
+a = a / 1.5
+a = int(a)
+print(a)
+print(type(a))
+
+
 ##Ejercicio3
 ##paso1
 ci = 100000
@@ -39,3 +47,4 @@ cli = 120
 imp = 20
 CTR = (cli/imp)*100
 print(CTR) 
+
